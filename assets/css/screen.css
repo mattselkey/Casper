@@ -1958,6 +1958,14 @@ html.dark-mode .subscribe-form .success .message-success {
     color: color-mod(var(--color-green) l(+5%) s(-5%));
 }
 
+/* hide banner */
+.home-header-hide {
+    display: none;
+}
+
+
+
+
 /*
 
 Hey! You reached the end.
