@@ -269,7 +269,7 @@ body {
     font-style: normal;
     letter-spacing: 0;
     text-rendering: optimizeLegibility;
-    background: #fff;
+    background: rgba(255, 255, 255, 0);
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -278,7 +278,7 @@ body {
 
 ::selection {
     text-shadow: none;
-    background: #daf2fd;
+    background: #02fdfdd0;
 }
 
 hr {
