@@ -85,7 +85,7 @@ function zipper(done) {
             '!gulpfile.js'
         ]),
         zip(filename),
-        dest('dist/')
+        dest('../')
     ], handleError(done));
 }
 
